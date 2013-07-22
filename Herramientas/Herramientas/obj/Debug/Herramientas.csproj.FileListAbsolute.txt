@@ -1,0 +1,4 @@
+c:\users\guicho\documents\visual studio 2010\Projects\Herramientas\Herramientas\bin\Debug\Herramientas.dll
+c:\users\guicho\documents\visual studio 2010\Projects\Herramientas\Herramientas\bin\Debug\Herramientas.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\Herramientas\Herramientas\obj\Debug\Herramientas.dll
+c:\users\guicho\documents\visual studio 2010\Projects\Herramientas\Herramientas\obj\Debug\Herramientas.pdb

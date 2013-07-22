@@ -1,0 +1,10 @@
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\bin\Debug\Herramientas.dll
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\bin\Debug\Herramientas.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\obj\x86\Debug\Operaciones.csprojResolveAssemblyReference.cache
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\obj\x86\Debug\Operaciones.Form1.resources
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\obj\x86\Debug\Operaciones.Properties.Resources.resources
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\obj\x86\Debug\Operaciones.csproj.GenerateResource.Cache
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\obj\x86\Debug\Operaciones.exe
+c:\users\guicho\documents\visual studio 2010\Projects\Operaciones\Operaciones\obj\x86\Debug\Operaciones.pdb
